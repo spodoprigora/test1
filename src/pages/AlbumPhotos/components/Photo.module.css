@@ -1,0 +1,9 @@
+.photoWrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo {
+    list-style-type: none;
+    margin: 10px;
+}
